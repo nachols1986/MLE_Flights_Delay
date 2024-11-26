@@ -130,7 +130,7 @@ El desarrollo y despliegue del modelo de machine learning se realizó utilizando
 - El modelo seleccionado (basado en **red neuronal**) fue desplegado como un **endpoint gestionado en Sagemaker**, permitiendo su integración directa con aplicaciones o sistemas en tiempo real.
 - Este endpoint ofrece predicciones rápidas y escalables, adaptándose a volúmenes de consultas crecientes.
 
-![Modelo Desplegado](images/3.jpg)
+![Modelo Desplegado](Images/3.jpg)
 
 #### Detalles y Notebook relacionado:
 - Todo el pipeline, desde el entrenamiento hasta el despliegue, está documentado y ejecutado en el **Notebook** correspondiente, disponible en este repositorio:  
@@ -154,10 +154,10 @@ Este notebook incluye:
 - El modelo más efectivo fue **XGBoost**, debido a su robustez frente a outliers presentes en las columnas del dataset.
 - Resultados principales:
   - **XGBoost:** AUC = **0.9356**
-![XGBoost](images/1.jpg)
+![XGBoost](Images/1.jpg)
 
   - **Red Neuronal:** AUC = **0.6779**
-![Red Neuronal](images/2.jpg)
+![Red Neuronal](Images/2.jpg)
 
 Si bien la red neuronal mostró resultados inferiores, el pipeline está diseñado para adaptarse a nuevas iteraciones y mejorar el rendimiento en el futuro.
 
