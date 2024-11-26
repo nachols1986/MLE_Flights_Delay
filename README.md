@@ -154,9 +154,12 @@ Este notebook incluye:
 - El modelo más efectivo fue **XGBoost**, debido a su robustez frente a outliers presentes en las columnas del dataset.
 - Resultados principales:
   - **XGBoost:** AUC = **0.9356**
+
 ![XGBoost](Images/1.jpg)
 
+
   - **Red Neuronal:** AUC = **0.6779**
+
 ![Red Neuronal](Images/2.jpg)
 
 Si bien la red neuronal mostró resultados inferiores, el pipeline está diseñado para adaptarse a nuevas iteraciones y mejorar el rendimiento en el futuro.
