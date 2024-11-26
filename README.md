@@ -1,4 +1,4 @@
-# Descripción del Dataset de Retrasos y Cancelaciones de Vuelos
+# Retrasos y Cancelaciones de Vuelos
 ## (20242Q) MLE.01 - Machine Learning Engineering - Cloud Data Engineering ITBA 2024
 
 ### Alumnos:
