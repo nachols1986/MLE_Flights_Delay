@@ -30,14 +30,8 @@ Este dataset contiene información detallada de vuelos, condiciones meteorológi
 
 El archivo original del dataset está disponible en Kaggle bajo el nombre [2019 Airline Delays and Cancellations](https://www.kaggle.com/datasets/threnjen/2019-airline-delays-and-cancellations/data).
 
+Análisis exploratorio inicial de las variables, se puede observar en el siguiente dashboard [2019 Airline Delays and Cancellations - Dashboard](https://nachols1986.github.io/infovis/airport_delays.html).
+
 ## Objetivo del Proyecto
 
 El objetivo es entrenar modelos predictivos para anticipar la variable binaria **DEP_DEL15**. El desarrollo y la implementación del modelo se llevarán a cabo en **Amazon SageMaker** en AWS, donde se buscará construir y optimizar un modelo de machine learning que permita prever la probabilidad de retrasos en vuelos y, eventualmente, generar insights prácticos para la toma de decisiones en la gestión de operaciones de aerolíneas y aeropuertos.
-
----
-# Proyecto de Machine Learning con AWS - CONSIGNA TP FINAL
-
-## Objetivo
-Crear una solución completa de Machine Learning utilizando los servicios de AWS, desde la ingestión de datos hasta la visualización de resultados.
-
----
